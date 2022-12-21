@@ -22,7 +22,4 @@ curl -X POST -H "Content-Type: application/json" \
 #### Architecture Notes
 
 - the DI is based on classes, but it could work
-  with functions just as well. In fact, the
-  appFunction file in the archive folder is a
-  drop-in replacement for the app.js file in src
-  folder.
+  with functions just as well.
